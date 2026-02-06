@@ -120,8 +120,6 @@ He liderado la documentación técnica de proyectos críticos, utilizando:
 ### 📅 Contribuciones 2025
 ![Contribuciones 2025](https://ghchart.rshah.org/fospmrynn)
 
-![Snake Animation](https://raw.githubusercontent.com/fospmrynn/fospmrynn/output/github-contribution-grid-snake.svg)
-
 **🏆 Especialista Multitarea:** Adaptabilidad para cambiar de lenguajes (Next.js/Nest.js (Node.js) ↔ Python/Odoo) según la demanda del proyecto.
 
 </div>
@@ -149,5 +147,7 @@ He liderado la documentación técnica de proyectos críticos, utilizando:
 ### 💡 *"Soy una esponja para el conocimiento y un ejecutor para los resultados."*
 
 </div>
+
+![Snake Animation](https://raw.githubusercontent.com/fospmrynn/fospmrynn/output/github-contribution-grid-snake.svg)
 
 :)
